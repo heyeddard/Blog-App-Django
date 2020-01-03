@@ -1,0 +1,413 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ob",
+				"obj"
+			],
+			[
+				"c",
+				"cofounder"
+			],
+			[
+				"ab",
+				"about_view"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"t",
+				"TextField"
+			],
+			[
+				"Ba",
+				"BASE_DIR"
+			],
+			[
+				"p",
+				"path"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"str",
+				"string.h\tstandard header"
+			],
+			[
+				"tm",
+				"temp1"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "requirements.txt",
+			"settings":
+			{
+				"buffer_size": 13,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/sugam.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sugam.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/sugam.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/sugamagarwal/django"
+	],
+	"file_history":
+	[
+		"/Users/sugamagarwal/django/myvenv/src/eddard/urls.py",
+		"/Users/sugamagarwal/django/myvenv/src/template/contact.html",
+		"/Users/sugamagarwal/django/myvenv/src/template/productw/detail.html",
+		"/Users/sugamagarwal/django/myvenv/src/product/views.py",
+		"/Users/sugamagarwal/django/myvenv/src/template/product/detail.html",
+		"/Users/sugamagarwal/django/myvenv/src/template/detail.html",
+		"/Users/sugamagarwal/django/myvenv/src/pages/views.py",
+		"/Users/sugamagarwal/django/myvenv/src/template/base.html",
+		"/Users/sugamagarwal/django/myvenv/src/template/about.html",
+		"/Users/sugamagarwal/django/myvenv/src/template/home.html",
+		"/Users/sugamagarwal/django/myvenv/src/template/navbar.html",
+		"/Users/sugamagarwal/django/myvenv/src/eddard/settings.py",
+		"/Users/sugamagarwal/django/myvenv/eddard.sublime-project",
+		"/Users/sugamagarwal/django/myvenv/src/db.sqlite3",
+		"/Users/sugamagarwal/django/myvenv/src/manage.py",
+		"/Users/sugamagarwal/django/myvenv/src /manage.py",
+		"/Users/sugamagarwal/django/project/blog/views.py",
+		"/Users/sugamagarwal/django/project/eddardwork/settings.py",
+		"/Users/sugamagarwal/django/project/blog/templates /blog/post_list.html",
+		"/Users/sugamagarwal/django/project/blog/models.py",
+		"/Users/sugamagarwal/django/project/blog/templates /post_list.html",
+		"/Users/sugamagarwal/django/project/blog/templates /blog /post_list.html",
+		"/Users/sugamagarwal/django/project/blog/urls.py",
+		"/Users/sugamagarwal/Desktop/post_list.html",
+		"/Users/sugamagarwal/django/project/eddardwork/urls.py",
+		"/Users/sugamagarwal/Desktop/tokendjango",
+		"/Users/sugamagarwal/Desktop/.gitignore",
+		"/Users/sugamagarwal/django/.gitignore",
+		"/Users/sugamagarwal/django/project/blog/admin.py",
+		"/Users/sugamagarwal/django/project/calc/views.py",
+		"/Users/sugamagarwal/django/project/calc/urls.py",
+		"/Users/sugamagarwal/django/requirements.txt",
+		"/Users/sugamagarwal/Desktop/WordCount.java",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreWLAN.framework/Versions/A/Headers/CWWiFiClient.h",
+		"/Users/sugamagarwal/Desktop/godsake.c",
+		"/Users/sugamagarwal/Desktop/imageminor.c",
+		"/Users/sugamagarwal/Desktop/finalfinal.c",
+		"/Users/sugamagarwal/Desktop/ktminor1.c",
+		"/Users/sugamagarwal/Downloads/Sugams.c",
+		"/Users/sugamagarwal/Desktop/client.c",
+		"/Users/sugamagarwal/Desktop/textminor.c",
+		"/Users/sugamagarwal/Desktop/Server.c",
+		"/Users/sugamagarwal/Desktop/new.c",
+		"/Users/sugamagarwal/Desktop/code1.c",
+		"/Users/sugamagarwal/Desktop/image compression part /imagecompression.c",
+		"/Users/sugamagarwal/Desktop/decom.cpp",
+		"/Users/sugamagarwal/Desktop/dd",
+		"/Users/sugamagarwal/Desktop/imagecompression.c",
+		"/Users/sugamagarwal/Desktop/secure.c ",
+		"/Users/sugamagarwal/Desktop/minorcode.c ",
+		"/Users/sugamagarwal/Desktop/hello.c",
+		"/Users/sugamagarwal/Desktop/hello.c ",
+		"/Users/sugamagarwal/Documents/minor 1/imagecompression.c ",
+		"/e.docx",
+		"/encrypt.txt",
+		"/Users/sugamagarwal/Desktop/liang.c",
+		"/Users/sugamagarwal/Desktop/cs_lineclip.c",
+		"/Users/sugamagarwal/Desktop/counting valleys.cpp",
+		"/Users/sugamagarwal/Desktop/electronics shop.cpp",
+		"/Users/sugamagarwal/Desktop/cat and mouse.cpp",
+		"/Users/sugamagarwal/Desktop/BF_4.TXT",
+		"/Users/sugamagarwal/Desktop/BF8.C",
+		"/Users/sugamagarwal/Desktop/BF_4.C",
+		"/Users/sugamagarwal/Desktop/floodfill_4c.c",
+		"/Users/sugamagarwal/Desktop/scanline.txt",
+		"/Users/sugamagarwal/Desktop/boundaryfill_8points.c",
+		"/Users/sugamagarwal/Desktop/boundaryfill_4c.c",
+		"/Users/sugamagarwal/Desktop/ellipse.txt",
+		"/Users/sugamagarwal/Desktop/midpointcircle.c",
+		"/Users/sugamagarwal/Desktop/circle_polar.c",
+		"/Users/sugamagarwal/Desktop/date.cpp",
+		"/Users/sugamagarwal/Desktop/rsa.c",
+		"/Users/sugamagarwal/Desktop/bon appetit.cpp",
+		"/Users/sugamagarwal/Desktop/migratorybirds.cpp",
+		"/Users/sugamagarwal/Desktop/divisiblesumpairs.cpp",
+		"/Users/sugamagarwal/Desktop/birthdaychocolate.cpp",
+		"/Users/sugamagarwal/Desktop/machine-learning-ex2/ex2/ex2.m",
+		"/Users/sugamagarwal/Desktop/machine-learning-ex2/ex2/sigmoid.m",
+		"/Users/sugamagarwal/Desktop/abc",
+		"/midpoint.c",
+		"/Users/sugamagarwal/Desktop/bresenham.c",
+		"/Users/sugamagarwal/Desktop/bresenham.docx",
+		"/Users/sugamagarwal/Desktop/dda.docx",
+		"/Users/sugamagarwal/Desktop/client.c ",
+		"/Users/sugamagarwal/Desktop/a.cpp",
+		"/Users/sugamagarwal/Desktop/server.c",
+		"/#include <stdio.h>",
+		"/Users/sugamagarwal/Desktop/ex1/gradientDescent.m",
+		"/Users/sugamagarwal/Desktop/lab1.scala ",
+		"/Users/sugamagarwal/Desktop/ex1/ex1.m",
+		"/Users/sugamagarwal/Desktop/ex1/warmUpExercise.m",
+		"/Users/sugamagarwal/Downloads/machine-learning-ex1/ex1/warmUpExercise.m",
+		"/Users/sugamagarwal/Desktop/costfunction.m",
+		"/Users/sugamagarwal/Desktop/squareandcube.m",
+		"/Users/sugamagarwal/Desktop/square.m",
+		"/Users/sugamagarwal/Desktop/square.doc .m",
+		"/Users/sugamagarwal/anaconda3/pkgs/qt-5.9.6-h45cd832_2/include/qt/QtQml/5.9.6/QtQml/private/qv4ssa_p.h",
+		"/linked_deletion_begin_end.cpp",
+		"/opt/vagrant/embedded/gems/2.2.3/gems/ed25519-1.2.4/ext/ed25519_ref10/ge_msub.h",
+		"/Users/sugamagarwal/Downloads/twofish-reference-c/AES.H",
+		"/Users/sugamagarwal/version-control/recipes/cake-recipe.txt",
+		"/Users/sugamagarwal/version-control/recipes/chili-recipe.txt",
+		"/Users/sugamagarwal/version-control/reflections/lesson_3_reflection",
+		"/Users/sugamagarwal/version-control/reflections/lesson_3",
+		"/Users/sugamagarwal/version-control/recipes/shake.txt",
+		"/Users/sugamagarwal/version-control/recipes/tea-recipe.txt",
+		"/Users/sugamagarwal/version-control/asteroids/game.js",
+		"/Users/sugamagarwal/version-control/pop/h",
+		"/Users/sugamagarwal/version-control/bob/ex",
+		"/Users/sugamagarwal/version-control/pop/jk",
+		"/Users/sugamagarwal/version-control/bob/mssg",
+		"/Users/sugamagarwal/u.cpp",
+		"/Users/sugamagarwal/hello.cpp",
+		"/Users/sugamagarwal/Library/Application Support/Sublime Text 3/Packages/User/sugam.sublime-build",
+		"/Users/sugamagarwal/hey.cpp",
+		"/Users/sugamagarwal/sublimefile /c++",
+		"/Users/sugamagarwal/Library/Application Support/Sublime Text 3/Packages/User/c++.sublime-build",
+		"/Users/sugamagarwal/version-control/reflections/lesson-2-reflections.txt",
+		"/Users/sugamagarwal/version-control/asteroids/index.html",
+		"/Users/sugamagarwal/version-control/reflections/lesson_1_reflections.txt",
+		"/Users/sugamagarwal/Downloads/untitled1.py",
+		"/Volumes/HEY EDDARD/SEM IV/OOPs through java/RMI/Server/RemoteInterface.java",
+		"/Volumes/HEY EDDARD/SEM IV/OOPs through java/RMI/Client/MainClient.java",
+		"/Volumes/HEY EDDARD/SEM IV/OOPs through java/RMI/Client/RemoteInterface.java",
+		"/opt/vagrant/embedded/gems/2.2.3/specifications/ffi-1.10.0.gemspec",
+		"/stopandwaitarq",
+		"/stopwait.cpp",
+		"/stopandwaitarq.c++"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "requirements.txt",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 13,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/c++.sublime-build",
+	"project": "djangogirls.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
