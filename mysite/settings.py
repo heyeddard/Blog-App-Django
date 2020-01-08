@@ -25,7 +25,7 @@ SECRET_KEY = 'bmsun1j++ac932n(#sx4#at4ig6b$b8gm4$84n0b1r1ivh%jh0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOST= ['127.0.0.1', 'heyeddard.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'heyeddard.pythonanywhere.com']
 
 
 # Application definition
